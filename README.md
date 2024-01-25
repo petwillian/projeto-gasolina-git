@@ -1,14 +1,6 @@
  <h1> Projeto Gasolina Git</h1>     
  
- ![39](https://github.com/petwillian/projeto-gasolina-git/assets/44210315/1b6630e8-41cf-4372-9b52-e25ac85ae24b)
-                                                                                                                            
-
-
-
-
-
-
-Projeto destinado ao exercício do módulo 18 do *curso* **Analista de Dados** da **EBAC**. 
+ ![39](https://github.com/petwillian/projeto-gasolina-git/assets/44210315/1b6630e8-41cf-4372-9b52-e25ac85ae24b)Projeto destinado ao exercício do módulo 18 do *curso* **Analista de Dados** da **EBAC**. 
 O objetivo deste repositório é práticar o uso do Git e também do Github no versionamento de cógio. 
 Para isso, a ativiade constou nas seguintes etapas:
 
